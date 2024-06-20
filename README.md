@@ -1,5 +1,5 @@
 🌱I’m @xinhdinh
- 📫 email: dinhthixinhbmt@gmail.com
+ 📫 email: xinhdinhbmt@gmail.com
 
 <!---
 xinhdinh/xinhdinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
